@@ -7,7 +7,7 @@
 # 題型練習
 
 ## Quiz 1: 作出兩組平行線
-
+![Q1](./Photo/Quiz 1.png)
 
 ## Exam2
 
