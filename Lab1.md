@@ -9,6 +9,6 @@
 ![Quiz1](https://github.com/Allson-TA/-H1340010-/blob/main/Photo/Quiz1.png)
 
 
-## Exam2
+## Quiz2: 作出三角形 (含面積計算)
 
 ## Exam3
