@@ -10,5 +10,6 @@
 
 
 ## Quiz2: 作出三角形 (含面積計算)
+![Quiz2](https://github.com/Allson-TA/-H1340010-/blob/main/Photo/Quiz2.png)
 
 ## Exam3
