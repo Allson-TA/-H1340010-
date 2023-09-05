@@ -6,8 +6,8 @@
 
 # 題型練習
 
-## Quiz 1: 作出兩組平行線
-![Alt text](https://github.com/Allson-TA/-H1340010-/blob/main/Photo/Quiz1.png)
+## Quiz1: 作出兩組平行線
+![Quiz1](https://github.com/Allson-TA/-H1340010-/blob/main/Photo/Quiz1.png)
 
 
 ## Exam2
