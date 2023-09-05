@@ -7,7 +7,7 @@
 # 題型練習
 
 ## Quiz 1: 作出兩組平行線
-![Q1](Photo/Quiz-1.png)
+![Q1]([Photo/Quiz-1.png](https://github.com/Allson-TA/-H1340010-/blob/main/Photo/Quiz%201.png?raw=true)https://github.com/Allson-TA/-H1340010-/blob/main/Photo/Quiz%201.png?raw=true)
 
 ## Exam2
 
