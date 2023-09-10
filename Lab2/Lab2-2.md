@@ -24,7 +24,7 @@
 以下是我挑選的三個我最喜愛的工程圖形，以及為什麼我喜歡它們的簡要說明：
 
 1. 流程圖（Flowchart）：我喜歡流程圖，因為它們提供了一種簡單而強大的方式來可視化和理解各種程序、系統或流程。流程圖將複雜的步驟和決策以圖形方式表示，使我們能夠追蹤和優化流程，同時也有助於溝通和協作。
-![流程圖](https://online.visual-paradigm.com/repository/images/4a3f9329-fe3a-4f33-acd1-df5436b08155/flowchart-design/flowchart-for-a-hospital-patient-admission-process.png)
+![流程圖](https://www.cyberskysec.com/images/technology-pic05.png)
 
 2. 結構圖（Structural Diagram）：結構圖包括類別圖、物件圖等，它們用於軟體工程和系統設計中，幫助我們理解不同元素之間的關係和結構。這些圖表有助於軟體開發和系統架構的設計，提供了清晰的視覺化方式。
 ![結構圖](https://th.bing.com/th/id/OIP.fFdozw9sSmTm5doG9qKo2gHaEg?pid=ImgDet&rs=1)
