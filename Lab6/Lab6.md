@@ -3,7 +3,7 @@
 ## Lab 6-1
 <img width="707" alt="image" src="https://user-images.githubusercontent.com/89304181/204117252-1fb15f0c-7633-4af0-b7a1-a9d2ee05bd6a.png">
 
-## Lab 6-2 , 如何親自動手製作我們第一個文字雲呢?
+## Lab 6-2
 第一個文字雲
 
 ![7877](https://user-images.githubusercontent.com/89304181/204117289-88c91508-59c3-473c-8a2c-72861fad9e5f.png)
