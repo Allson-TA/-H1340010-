@@ -1,7 +1,7 @@
 # 課程互動
 
 ## Lab 6-1
-<img width="707" alt="image" src="https://user-images.githubusercontent.com/89304181/204117252-1fb15f0c-7633-4af0-b7a1-a9d2ee05bd6a.png">
+![555](https://github.com/Allson-TA/-H1340010-/blob/main/Photo/0000.png)
 
 ## Lab 6-2
 第一個文字雲
