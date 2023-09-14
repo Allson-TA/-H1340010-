@@ -18,7 +18,5 @@
 
 ## Lab 6-3 Show Time
 
-![455](https://user-images.githubusercontent.com/89304181/204124791-62bf61d0-cdb7-4ac8-9cea-589c1110fdf0.png)
-
 ![123](https://user-images.githubusercontent.com/89304181/204124757-e7a2091e-0e61-4dcc-81eb-7e0bbdbd42ca.png)
 
