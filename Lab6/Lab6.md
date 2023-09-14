@@ -20,11 +20,10 @@
 
 ## Lab 6-3 Your Show Time: 找一篇你喜歡的長文章或新聞
 
-1. 文章來源: https://news.cnyes.com/news/id/5019701
-2. 結果 but "台", "積電"分開
+結果 but "台", "積電"分開
 ![342](https://user-images.githubusercontent.com/89304181/204124655-a42ebdfe-4e64-4c3e-9e34-804269b8dc24.png)
 
-## 3. 自訂詞庫
+自訂詞庫
 ![455](https://user-images.githubusercontent.com/89304181/204124791-62bf61d0-cdb7-4ac8-9cea-589c1110fdf0.png)
 
 ![123](https://user-images.githubusercontent.com/89304181/204124757-e7a2091e-0e61-4dcc-81eb-7e0bbdbd42ca.png)
