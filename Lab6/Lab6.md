@@ -1,4 +1,4 @@
-# 課程互動
+# 課程互動  AJ1213039
 
 ## Lab 6-1
 ![555](https://github.com/Allson-TA/-H1340010-/blob/main/Photo/0000.png)
