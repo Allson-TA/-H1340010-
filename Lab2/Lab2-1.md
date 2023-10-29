@@ -1,4 +1,4 @@
-# 課程互動
+# 課程互動  AJ1213039
 
 # 1.SymPy簡介與起手式
 ![Lab21](https://github.com/Allson-TA/-H1340010-/blob/main/Photo/Quiz21.png)
